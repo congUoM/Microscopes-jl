@@ -1,4 +1,8 @@
-name = "Microscopes.jl"
+name = "Microscopes"
 uuid = "e2e16d05-ec94-40b7-b355-ae0fb683d354"
 authors = ["Cong on Samsung <vctson@icloud.com>"]
 version = "0.1.0"
+
+[compat]
+PlotUtils = "0.6.2, 1"
+julia = "^1"
